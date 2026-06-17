@@ -1,29 +1,35 @@
 # CodeAlpha Projects
 
-## 1. FAQ Chatbot
-A simple chatbot that answers user questions using Python.
+This repository contains projects completed during my CodeAlpha Internship.
 
-## 2. Object Detection
-Uses YOLOv8 to detect objects in images and saves output with bounding boxes.
+## Projects
 
-## 3. Language Translation Tool
-Converts text from one language to another using Python.
+### 1. AI Chatbot
+A simple chatbot built using Python that responds to user input.
 
-## Technologies Used:
-- Python
-- YOLOv8 (Ultralytics)
-- NLP libraries
+### 2. Language Translator
+A Python application that translates text between different languages.
 
-## How to Run:
-1. Install dependencies:
-   pip install ultralytics torch
-2. Run each Python file:
-   python chatbot.py
-   python object_detection.py
-   python translator.py
+### 3. Object Detection
+Real-time object detection using YOLOv8 and OpenCV.
 
-1. Install dependencies:
+## Installation
+
+```bash
 pip install -r requirements.txt
-2. Run the project:
-py -3.11 object_detection.py
-   
+```
+
+## Run the Projects
+
+```bash
+python chatbot.py
+python translator.py
+python object_detection.py
+```
+
+## Technologies Used
+
+- Python
+- OpenCV
+- YOLOv8
+- PyTorch
