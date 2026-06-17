@@ -21,4 +21,9 @@ Converts text from one language to another using Python.
    python chatbot.py
    python object_detection.py
    python translator.py
+
+1. Install dependencies:
+pip install -r requirements.txt
+2. Run the project:
+py -3.11 object_detection.py
    
